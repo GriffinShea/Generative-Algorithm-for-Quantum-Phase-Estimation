@@ -1,4 +1,4 @@
-Report/documentation --> QPE_REPORT.pdf
+Report/documentation --> GenerativeAlgorithmforQPE_report.pdf
 
 To run the code, you will need MatLab and version 0.10.0 of Quantum Information Toolkit released 2014-07-08.
 
